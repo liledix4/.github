@@ -1,0 +1,16 @@
+name: Content
+description: Content label
+title: ""
+labels: ["Content"]
+projects: ["liledix4/15"]
+assignees:
+  - liledix4
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Also tell us, what did you expect to happen?
+      placeholder: Tell us what you see!
+    validations:
+      required: true

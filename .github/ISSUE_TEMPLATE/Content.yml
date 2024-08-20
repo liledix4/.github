@@ -1,6 +1,6 @@
 name: Content
 description: Content label
-title: ""
+title: " "
 labels: ["Content"]
 projects: ["liledix4/15"]
 assignees:
